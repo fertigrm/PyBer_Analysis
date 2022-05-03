@@ -1,4 +1,6 @@
 # PyBer_Analysis
+- Python 3.10
+- jupyter notebook
 ## The purpose of this Analysis
 This analysis served multiple purposes, it was done for a popular ride sharing company called PyBer, akin to Uber but much better. The company CEO V. Isualize wanted us to calculate data such as total fares, total rides given, total drivers, average fare per ride, and average fare for the driver. This analysis was conducted on 3 different types of cities: Suburban, Urban and Rural areas. The data analyzed was from the start of 2019 untill the 28th of April 2019. The overall goal was to provide useful metrics for the CEO to determine any differences amongst the city types to optimize performance for the company and the employees, and patrons.
 ## Results of the analysis
